@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/temperture_screen/temperturePresenter.hpp:28:13:temperturePresenter::~temperturePresenter()	1
+D:/workspace/Station_Meteo/TouchGFX/gui/src/temperture_screen/temperturePresenter.cpp:10:6:virtual void temperturePresenter::activate()	1
+../../TouchGFX/gui/include/gui/temperture_screen/temperturePresenter.hpp:28:13:virtual temperturePresenter::~temperturePresenter()	1
+../../TouchGFX/gui/include/gui/temperture_screen/temperturePresenter.hpp:28:13:virtual void* temperturePresenter::_ZThn4_N19temperturePresenterD1Ev()	1
+D:/workspace/Station_Meteo/TouchGFX/gui/src/temperture_screen/temperturePresenter.cpp:4:1:temperturePresenter::temperturePresenter(tempertureView&)	1

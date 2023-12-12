@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/direction_du_vent_screen/direction_du_ventPresenter.hpp:28:13:direction_du_ventPresenter::~direction_du_ventPresenter()	0	static
+D:/workspace/Station_Meteo/TouchGFX/gui/src/direction_du_vent_screen/direction_du_ventPresenter.cpp:10:6:virtual void direction_du_ventPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/direction_du_vent_screen/direction_du_ventPresenter.hpp:28:13:virtual direction_du_ventPresenter::~direction_du_ventPresenter()	8	static
+../../TouchGFX/gui/include/gui/direction_du_vent_screen/direction_du_ventPresenter.hpp:28:13:virtual void* direction_du_ventPresenter::_ZThn4_N26direction_du_ventPresenterD1Ev()	0	static
+D:/workspace/Station_Meteo/TouchGFX/gui/src/direction_du_vent_screen/direction_du_ventPresenter.cpp:4:1:direction_du_ventPresenter::direction_du_ventPresenter(direction_du_ventView&)	8	static

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.22.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_I97Q" Alignment="Left" TypographyId="direction">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_HFWN" Alignment="Center" TypographyId="humidety">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_NFRT" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">graphe de VOLUME DE PLUIE</Translation>
+      </Text>
+      <Text Id="__SingleUse_96IU" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">graphe de direction du vent</Translation>
+      </Text>
+      <Text Id="__SingleUse_WAVH" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">graphe de TEMPERATURE</Translation>
+      </Text>
+      <Text Id="__SingleUse_XN48" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_TX8V" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_X2O9" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_0Z0M" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_8VHY" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_XX89" Alignment="Center" TypographyId="direction">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_MQEO" Alignment="Center" TypographyId="V">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_WV6J" Alignment="Center" TypographyId="vitesse">
+        <Translation Language="GB">&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_PO1V" Alignment="Center" TypographyId="pression">
+        <Translation Language="GB">&lt;value&gt; hPa</Translation>
+      </Text>
+      <Text Id="__SingleUse_8Z8G" Alignment="Center" TypographyId="temperature">
+        <Translation Language="GB">&lt;value&gt; C</Translation>
+      </Text>
+      <Text Id="__SingleUse_AA2R" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">DIRECTION.V</Translation>
+      </Text>
+      <Text Id="__SingleUse_8V0Y" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">TEMPERATURE</Translation>
+      </Text>
+      <Text Id="__SingleUse_SKRS" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">V.PLUIE</Translation>
+      </Text>
+      <Text Id="__SingleUse_3EQT" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">PRESSION</Translation>
+      </Text>
+      <Text Id="__SingleUse_2XBS" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">VITESSE.V</Translation>
+      </Text>
+      <Text Id="__SingleUse_4BM0" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">HUMIDITE</Translation>
+      </Text>
+      <Text Id="__SingleUse_NLRE" Alignment="Center" TypographyId="Large">
+        <Translation Language="GB">station meteo</Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Large" Font="ROCK.TTF" Size="40" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="Small" Font="verdana.ttf" Size="10" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="temperature" Font="ariblk.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacters="-" WildcardCharacterRanges="50" />
+    <Typography Id="humidety" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="pression" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+    <Typography Id="vitesse" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="200" />
+    <Typography Id="direction" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="200" />
+    <Typography Id="V" Font="verdana.ttf" Size="20" Bpp="4" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>

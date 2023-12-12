@@ -1,0 +1,8 @@
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:144:18:virtual void touchgfx::Screen::handleTickEvent()	1
+../../Middlewares/ST/touchgfx/framework/include/touchgfx/Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	1
+D:/workspace/Station_Meteo/TouchGFX/gui/src/direction_du_vent_screen/direction_du_ventView.cpp:13:6:virtual void direction_du_ventView::tearDownScreen()	1
+../../TouchGFX/gui/include/gui/direction_du_vent_screen/direction_du_ventView.hpp:11:13:direction_du_ventView::~direction_du_ventView()	1
+../../TouchGFX/gui/include/gui/direction_du_vent_screen/direction_du_ventView.hpp:11:13:virtual direction_du_ventView::~direction_du_ventView()	1
+D:/workspace/Station_Meteo/TouchGFX/gui/src/direction_du_vent_screen/direction_du_ventView.cpp:3:1:direction_du_ventView::direction_du_ventView()	1
+D:/workspace/Station_Meteo/TouchGFX/gui/src/direction_du_vent_screen/direction_du_ventView.cpp:8:6:virtual void direction_du_ventView::setupScreen()	1

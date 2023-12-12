@@ -1,0 +1,5 @@
+../../TouchGFX/gui/include/gui/plui_screen/pluiPresenter.hpp:28:13:pluiPresenter::~pluiPresenter()	0	static
+D:/workspace/Station_Meteo/TouchGFX/gui/src/plui_screen/pluiPresenter.cpp:11:6:virtual void pluiPresenter::activate()	0	static
+../../TouchGFX/gui/include/gui/plui_screen/pluiPresenter.hpp:28:13:virtual pluiPresenter::~pluiPresenter()	8	static
+../../TouchGFX/gui/include/gui/plui_screen/pluiPresenter.hpp:28:13:virtual void* pluiPresenter::_ZThn4_N13pluiPresenterD1Ev()	0	static
+D:/workspace/Station_Meteo/TouchGFX/gui/src/plui_screen/pluiPresenter.cpp:5:1:pluiPresenter::pluiPresenter(pluiView&)	8	static
